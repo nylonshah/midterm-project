@@ -1,0 +1,8 @@
+# Application
+streamlit==1.67.0
+chromadb==1.5.9
+openai==3.46.0
+
+# Evaluation notebook
+ipykernel==7.4.0
+pandas==3.1.1
